@@ -9,7 +9,7 @@ body
 }
 #cabecera 
 {
-    background: rgb(197, 7, 7) url("../imagenes/Foto1.jpg") 10px 10px;
+    background: rgb(197, 7, 7) url("../imagenes/tecnologia1.jpg") 50px 50px;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: black;
     font-weight: bold;
@@ -18,7 +18,7 @@ body
 }
 #cabecera #imagen
 {
-    width: 20px;
+    width: 100px;
     vertical-align: middle;
 }
 #cabecera #tagline
